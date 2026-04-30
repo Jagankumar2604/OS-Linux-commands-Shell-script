@@ -892,6 +892,7 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/c7d94493-1a36-4155-8287-4f9527a841a3" />
 
 
 
@@ -913,7 +914,8 @@ $ chmod 755 fornested1.sh
  
 $ ./fornested1.sh 
  ## OUTPUT
- 
+ <img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/36c808c5-ccd8-4110-95f4-bf1556dff739" />
+
 
  
 cat forbreak.sh 
@@ -957,7 +959,7 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
-![Alt text](op-img/80.png) 
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/0dd3991b-df77-4984-a329-814689820362" />
 
 cat exread.sh 
 ```bash
@@ -972,7 +974,7 @@ $ chmod 755 exread.sh
  
 $ ./exread.sh 
 ## OUTPUT
-![Alt text](op-img/81.png)
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/7fb776ca-21ff-4c54-8642-2d991eef781a" />
 
  cat exread1.sh
 ```bash
@@ -984,7 +986,7 @@ echo "Hello $name, welcome to my program. “
 $ chmod 755 exread1.sh 
 
 ## OUTPUT
-![Alt text](op-img/82.png)
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/f8cd1748-ef05-4cae-9b5e-3c379c1537db" />
 
 
 $ ./exread1.sh 
@@ -1009,7 +1011,7 @@ fi
 
  
  ./funcex.sh 1 2
-![Alt text](op-img/83.png)
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/40140f6f-aacb-450c-bde0-ca76f191d057" />
  
 cat argshift.sh
 ```bash
@@ -1023,7 +1025,7 @@ $ chmod 777 argshift.sh
 
 ## OUTPUT
 $ ./argshift.sh 1 2 3
-![Alt text](op-img/84.png) 
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/5df21699-ada1-4ca6-9c98-b7fc7d0feb37" />
 
  cat argshift1.sh
 ```bash
@@ -1042,7 +1044,7 @@ $ chmod 777 argshift.sh
 ## OUTPUT
 $ ./argshift.sh 1 2 3
 
-![Alt text](op-img/85.png) 
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/efc7cc5f-de0d-46d8-8d77-d2cfb04baac2" />
 
 cat argshift.sh
 ```bash
@@ -1057,7 +1059,7 @@ set +x
 ## OUTPUT
  ./argshift.sh 1 2 3
 
-![Alt text](op-img/86.png) 
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/cb83f848-76ab-4724-a83e-7e233456479a" />
  
 cat > nc.awk
 ```bash
@@ -1088,7 +1090,7 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
-![Alt text](op-img/87.png) 
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/617681b6-a3d8-4fae-afe4-16f2eb24e7e0" />
 
 cat > palindrome.sh
 ```bash
@@ -1116,7 +1118,7 @@ else
 fi
 ```
 ## OUTPUT 
-![Alt text](op-img/88.png)
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/f5b9de81-bca2-4419-81c2-ab31b365db01" />
 
 # RESULT:
 The Commands are executed successfully.
